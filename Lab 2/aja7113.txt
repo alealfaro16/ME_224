@@ -1,0 +1,10 @@
+Name:	Alejandro J. Alfaro
+Date of Birth:	9/17/97
+Email Address:	alejandroalfaro2024@northwestern.edu
+Department:	MechE
+Height:	6ft,2in
+Weight:	200lbs
+Favorite Color:	Green
+Favorite Animal:	Dog
+Zodiac Sign:	Virgo
+Favorite Movie: 	Batman
